@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Cristobal Medina</h1>
-<h3 align="center">A passionate data science student form Mexico</h3>
+<h3 align="center">A data science student form Mexico</h3>
 
 <h3 align="left">Connect with me: cristobalmedina2004@gmail.com </h3>
 <p align="left">
