@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Cristobal Medina</h1>
-<h3 align="center">A data scientist form Mexico</h3>
+<h1 align="center">Hi! I'm Cristobal Medina</h1>
+<h3 align="center">A data scientist from Mexico</h3>
 
 <h3 align="center">You're number: </h3>
 <div align="center">
