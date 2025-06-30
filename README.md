@@ -11,9 +11,11 @@
 
 
 
-<h3 align="left">
-  Connect with me: <a href="mailto:hello@cmm.fyi">hello@cmm.fyi</a>
-</h3>
+<h3 align="left">Connect with me:</h3>
+<ul align="left" style="list-style-type: none; padding-left: 0;">
+  <li><a href="mailto:hello@cmm.fyi">hello@cmm.fyi</a></li>
+  <li><a href="https://www.linkedin.com/in/cristobalme/" target="_blank">LinkedIn</a></li>
+</ul>
 
 <img src="https://raw.githubusercontent.com/CristobalMe/CristobalMe/output/snake.svg" alt="Snake animation" />
 
