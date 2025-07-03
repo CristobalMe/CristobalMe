@@ -3,14 +3,6 @@
 <h1 align="center">Hi! I'm Cristobal Medina</h1>
 <h3 align="center">A data scientist from Mexico</h3>
 
-<h3 align="center">You're number: </h3>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/CristobalMe/count.svg?"  />
-</div>
-<h3 align="center">To visit my profile</h3>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <ul align="left" style="list-style-type: none; padding-left: 0;">
   <li><a href="mailto:hello@cmm.fyi">hello@cmm.fyi</a></li>
