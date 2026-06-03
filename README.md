@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi! I'm Cristobal Medina</h1>
-<h3 align="center">A data scientist from Mexico</h3>
+<h3 align="center">SWE at C3 AI</h3>
 
 <h3 align="left">Connect with me:</h3>
 <ul align="left" style="list-style-type: none; padding-left: 0;">
