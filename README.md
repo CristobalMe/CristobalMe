@@ -69,17 +69,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristobalMe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristobalMe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=CristobalMe&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CristobalMe&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
-</p>
 
 ###
 
